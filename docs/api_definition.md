@@ -2,6 +2,8 @@
 
 This API allows users to manage tasks. It provides endpoints to create, update, delete, and retrieve tasks.
 
+[postman docs](https://documenter.getpostman.com/view/37481680/2sA3s3Fqkb)
+
 ## Endpoints
 
 ### Create a Task
